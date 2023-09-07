@@ -1,0 +1,35 @@
+cool_variable_1 = 23.18
+cool_variable_2 = 9
+cool_variable_3 = "Imporant Message!"
+cool_variable_4 = 14 ** 3
+print(type(cool_variable_1))
+print(type(cool_variable_2))
+print(type(cool_variable_3))
+print(type(cool_variable_4))
+cool_number = 12 + 30
+cool_number * 5
+print(cool_number)
+string1 = 5
+string2 = 10
+#string1.combine(string2)
+#string1.concatenate(string2)
+string1 + string2
+#message = What a cool Message!
+#print(message)
+#answer = is_this_an_error
+answer = "is_this_an_error"
+answer = 'is_this_an_error'
+exponented_variable = 2 ** 4
+print(exponented_variable)
+variable_name = 10
+print(variable_name)
+modulo_variable = 14 % 4
+print(modulo_variable)
+#def quote(x):
+    #def quote("an untold story")
+    #print("There is no greater agony than bearing " + x + " inside you")
+#setup = "Hi"
+#def setup():
+def update(new_va;ue = 10):
+    old_value = new_value
+p
